@@ -1,2 +1,0 @@
-# HeghineG
-testing
